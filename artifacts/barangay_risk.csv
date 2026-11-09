@@ -1,0 +1,277 @@
+disease,brgy,area,rank,risk,driver,forecast_mw,cases_last4,cases_ytd
+Dengue,Barangay 628,Sampaloc,1,0.6763,Historical mean cases,41,8,31
+Dengue,Barangay 600,Sampaloc,2,0.6735,4-wk mean cases,41,10,18
+Dengue,Barangay 598,Sampaloc,3,0.5095,Historical mean cases,41,5,25
+Dengue,Barangay 900,Santa Ana,4,0.4839,Historical mean cases,41,4,31
+Dengue,Barangay 905,Santa Ana,5,0.406,Historical mean cases,41,3,21
+Dengue,Barangay 898,Santa Ana,6,0.3457,Historical mean cases,41,5,18
+Dengue,Barangay 836,Pandacan,7,0.3438,Historical mean cases,41,4,20
+Dengue,Barangay 843,Pandacan,8,0.3033,Historical mean cases,41,4,20
+Dengue,Barangay 903,Santa Ana,9,0.2922,Historical mean cases,41,4,13
+Dengue,Barangay 867,Pandacan,10,0.2729,Historical mean cases,41,3,15
+Dengue,Barangay 601,Sampaloc,11,0.2701,Historical mean cases,41,4,19
+Dengue,Barangay 592,Sampaloc,12,0.2674,Historical mean cases,41,3,13
+Dengue,Barangay 648,San Miguel,13,0.2583,Historical mean cases,41,3,19
+Dengue,Barangay 587,Sampaloc,14,0.2512,Historical mean cases,41,2,13
+Dengue,Barangay 835,Pandacan,15,0.248,City cases this week,41,4,11
+Dengue,Barangay 847,Pandacan,16,0.2406,City cases this week,41,4,11
+Dengue,Barangay 831,Paco,17,0.2322,Historical mean cases,41,2,13
+Dengue,Barangay 880,Santa Ana,18,0.2248,Historical mean cases,41,2,11
+Dengue,Barangay 859,Pandacan,19,0.2082,Historical mean cases,41,2,11
+Dengue,Barangay 845,Pandacan,20,0.1958,City cases this week,41,3,9
+Dengue,Barangay 871,Pandacan,21,0.1939,City cases this week,41,4,5
+Dengue,Barangay 891,Santa Ana,22,0.1909,City cases this week,41,1,1
+Dengue,Barangay 895,Santa Ana,23,0.1909,City cases this week,41,1,1
+Dengue,Barangay 844,Pandacan,24,0.186,City cases this week,41,2,9
+Dengue,Barangay 892,Santa Ana,25,0.1852,City cases this week,41,4,7
+Dengue,Barangay 599,Sampaloc,26,0.184,City cases this week,41,2,11
+Dengue,Barangay 837,Pandacan,27,0.1838,City cases this week,41,3,9
+Dengue,Barangay 830,Paco,28,0.1777,City cases this week,41,1,8
+Dengue,Barangay 595,Sampaloc,29,0.1777,City cases this week,41,1,8
+Dengue,Barangay 622,Sampaloc,30,0.1766,City cases this week,41,3,6
+Dengue,Barangay 894,Santa Ana,31,0.1764,City cases this week,41,1,7
+Dengue,Barangay 866,Santa Ana,32,0.1736,City cases this week,41,0,11
+Dengue,Barangay 878,Santa Ana,33,0.1731,City cases this week,41,1,1
+Dengue,Barangay 606,Sampaloc,34,0.1731,City cases this week,41,1,1
+Dengue,Barangay 590,Sampaloc,35,0.1726,City cases this week,41,3,6
+Dengue,Barangay 616,Sampaloc,36,0.1721,City cases this week,41,2,8
+Dengue,Barangay 602,Sampaloc,37,0.1651,City cases this week,41,2,7
+Dengue,Barangay 635,Sampaloc,38,0.164,City cases this week,41,0,0
+Dengue,Barangay 639,San Miguel,39,0.164,City cases this week,41,0,0
+Dengue,Barangay 588,Sampaloc,40,0.164,City cases this week,41,0,1
+Dengue,Barangay 634,Sampaloc,41,0.164,City cases this week,41,0,0
+Dengue,Barangay 617,Sampaloc,42,0.164,City cases this week,41,0,1
+Dengue,Barangay 643,San Miguel,43,0.164,City cases this week,41,0,1
+Dengue,Barangay 858,Pandacan,44,0.164,City cases this week,41,0,1
+Dengue,Barangay 886,Santa Ana,45,0.164,City cases this week,41,0,1
+Dengue,Barangay 887,Santa Ana,46,0.164,City cases this week,41,0,1
+Dengue,Barangay 857,Pandacan,47,0.164,City cases this week,41,0,1
+Dengue,Barangay 644,San Miguel,48,0.164,City cases this week,41,0,1
+Dengue,Barangay 609,Sampaloc,49,0.164,City cases this week,41,0,1
+Dengue,Barangay 851,Pandacan,50,0.164,City cases this week,41,0,1
+Dengue,Barangay 865,Pandacan,51,0.164,City cases this week,41,0,1
+Dengue,Barangay 853,Pandacan,52,0.164,City cases this week,41,0,1
+Dengue,Barangay 840,Pandacan,53,0.164,City cases this week,41,0,1
+Dengue,Barangay 613,Sampaloc,54,0.164,City cases this week,41,0,1
+Dengue,Barangay 605,Sampaloc,55,0.1626,City cases this week,41,3,9
+Dengue,Barangay 833,Pandacan,56,0.1625,City cases this week,41,2,7
+Dengue,Barangay 615,Sampaloc,57,0.1598,City cases this week,41,2,6
+Dengue,Barangay 882,Santa Ana,58,0.1589,City cases this week,41,2,5
+Dengue,Barangay 596,Sampaloc,59,0.1587,City cases this week,41,2,8
+Dengue,Barangay 896,Santa Ana,60,0.1585,City cases this week,41,1,8
+Dengue,Barangay 647,San Miguel,61,0.1552,City cases this week,41,2,5
+Dengue,Barangay 885,Santa Ana,62,0.1541,City cases this week,41,3,6
+Dengue,Barangay 630,Sampaloc,63,0.1529,City cases this week,41,2,8
+Dengue,Barangay 869,Pandacan,64,0.1501,City cases this week,41,1,6
+Dengue,Barangay 868,Pandacan,65,0.1459,City cases this week,41,0,7
+Dengue,Barangay 618,Sampaloc,66,0.1459,City cases this week,41,0,7
+Dengue,Barangay 850,Pandacan,67,0.1453,City cases this week,41,1,8
+Dengue,Barangay 829,Paco,68,0.1432,City cases this week,41,0,8
+Dengue,Barangay 632,Sampaloc,69,0.1421,City cases this week,41,1,7
+Dengue,Barangay 899,Santa Ana,70,0.1413,City cases this week,41,2,8
+Dengue,Barangay 860,Pandacan,71,0.1409,City cases this week,41,2,4
+Dengue,Barangay 589,Sampaloc,72,0.1401,City cases this week,41,3,4
+Dengue,Barangay 623,Sampaloc,73,0.1376,City cases this week,41,2,4
+Dengue,Barangay 640,San Miguel,74,0.1373,City cases this week,41,1,5
+Dengue,Barangay 612,Sampaloc,75,0.1373,City cases this week,41,1,5
+Dengue,Barangay 876,Santa Ana,76,0.1373,City cases this week,41,1,5
+Dengue,Barangay 841,Pandacan,77,0.1354,City cases this week,41,0,6
+Dengue,Barangay 842,Pandacan,78,0.1354,City cases this week,41,0,6
+Dengue,Barangay 834,Pandacan,79,0.1332,City cases this week,41,1,4
+Dengue,Barangay 897,Santa Ana,80,0.1319,City cases this week,41,1,6
+Dengue,Barangay 888,Santa Ana,81,0.1296,City cases this week,41,1,5
+Dengue,Barangay 884,Santa Ana,82,0.126,City cases this week,41,2,5
+Dengue,Barangay 631,Sampaloc,83,0.1254,City cases this week,41,2,4
+Dengue,Barangay 608,Sampaloc,84,0.1254,City cases this week,41,2,4
+Dengue,Barangay 849,Pandacan,85,0.1237,City cases this week,41,0,5
+Dengue,Barangay 838,Pandacan,86,0.1237,City cases this week,41,0,5
+Dengue,Barangay 832,Paco,87,0.1237,City cases this week,41,0,5
+Dengue,Barangay 864,Pandacan,88,0.1237,City cases this week,41,0,5
+Dengue,Barangay 872,Pandacan,89,0.1237,City cases this week,41,0,5
+Dengue,Barangay 874,Santa Ana,90,0.1237,City cases this week,41,0,5
+Dengue,Barangay 904,Santa Ana,91,0.1237,City cases this week,41,0,5
+Dengue,Barangay 610,Sampaloc,92,0.1237,City cases this week,41,0,5
+Dengue,Barangay 625,Sampaloc,93,0.1237,City cases this week,41,0,5
+Dengue,Barangay 846,Pandacan,94,0.1237,City cases this week,41,0,5
+Dengue,Barangay 875,Santa Ana,95,0.1218,City cases this week,41,2,4
+Dengue,Barangay 629,Sampaloc,96,0.1218,City cases this week,41,2,4
+Dengue,Barangay 870,Pandacan,97,0.1214,City cases this week,41,1,4
+Dengue,Barangay 636,Sampaloc,98,0.1214,City cases this week,41,1,4
+Dengue,Barangay 855,Pandacan,99,0.1147,City cases this week,41,2,4
+Dengue,Barangay 901,Santa Ana,100,0.1144,City cases this week,41,1,4
+Dengue,Barangay 642,San Miguel,101,0.1144,City cases this week,41,1,4
+Dengue,Barangay 633,Sampaloc,102,0.1112,City cases this week,41,2,4
+Dengue,Barangay 597,Sampaloc,103,0.1106,City cases this week,41,0,4
+Dengue,Barangay 879,Santa Ana,104,0.1106,City cases this week,41,0,4
+Dengue,Barangay 607,Sampaloc,105,0.1106,City cases this week,41,0,4
+Dengue,Barangay 619,Sampaloc,106,0.1106,City cases this week,41,0,4
+Dengue,Barangay 839,Pandacan,107,0.1075,City cases this week,41,1,4
+Dengue,Barangay 890,Santa Ana,108,0.0982,Historical mean cases,41,2,2
+Dengue,Barangay 604,Sampaloc,109,0.0979,Historical mean cases,41,1,2
+Dengue,Barangay 637,San Miguel,110,0.0966,Historical mean cases,41,2,3
+Dengue,Barangay 638,San Miguel,111,0.0963,Historical mean cases,41,2,3
+Dengue,Barangay 611,Sampaloc,112,0.0894,Historical mean cases,41,1,2
+Dengue,Barangay 591,Sampaloc,113,0.0871,Historical mean cases,41,0,3
+Dengue,Barangay 627,Sampaloc,114,0.0871,Historical mean cases,41,0,3
+Dengue,Barangay 862,Pandacan,115,0.0871,Historical mean cases,41,0,3
+Dengue,Barangay 873,Santa Ana,116,0.0871,Historical mean cases,41,0,3
+Dengue,Barangay 624,Sampaloc,117,0.0871,Historical mean cases,41,0,3
+Dengue,Barangay 863,Pandacan,118,0.0871,Historical mean cases,41,0,3
+Dengue,Barangay 646,San Miguel,119,0.0871,Historical mean cases,41,0,3
+Dengue,Barangay 594,Sampaloc,120,0.0847,Historical mean cases,41,1,3
+Dengue,Barangay 621,Sampaloc,121,0.0847,Historical mean cases,41,1,3
+Dengue,Barangay 593,Sampaloc,122,0.0828,Historical mean cases,41,0,2
+Dengue,Barangay 645,San Miguel,123,0.0828,Historical mean cases,41,0,2
+Dengue,Barangay 641,San Miguel,124,0.0828,Historical mean cases,41,0,2
+Dengue,Barangay 620,Sampaloc,125,0.0828,Historical mean cases,41,0,2
+Dengue,Barangay 626,Sampaloc,126,0.0828,Historical mean cases,41,0,2
+Dengue,Barangay 603,Sampaloc,127,0.0828,Historical mean cases,41,0,2
+Dengue,Barangay 614,Sampaloc,128,0.0828,Historical mean cases,41,0,2
+Dengue,Barangay 852,Pandacan,129,0.0828,Historical mean cases,41,0,2
+Dengue,Barangay 856,Pandacan,130,0.0828,Historical mean cases,41,0,2
+Dengue,Barangay 861,Pandacan,131,0.0828,Historical mean cases,41,0,2
+Dengue,Barangay 848,Pandacan,132,0.0828,Historical mean cases,41,0,2
+Dengue,Barangay 881,Santa Ana,133,0.0828,Historical mean cases,41,0,2
+Dengue,Barangay 883,Santa Ana,134,0.0828,Historical mean cases,41,0,2
+Dengue,Barangay 893,Santa Ana,135,0.0828,Historical mean cases,41,0,2
+Dengue,Barangay 889,Santa Ana,136,0.0828,Historical mean cases,41,0,2
+Dengue,Barangay 902,Santa Ana,137,0.0828,Historical mean cases,41,0,2
+Dengue,Barangay 877,Santa Ana,138,0.0766,Historical mean cases,41,1,2
+Leptospirosis,Barangay 900,Santa Ana,1,0.0807,Historical mean cases,41,0,12
+Leptospirosis,Barangay 598,Sampaloc,2,0.0605,Historical mean cases,41,0,7
+Leptospirosis,Barangay 842,Pandacan,3,0.0462,Historical mean cases,41,0,6
+Leptospirosis,Barangay 836,Pandacan,4,0.0437,Historical mean cases,41,1,9
+Leptospirosis,Barangay 843,Pandacan,5,0.0437,Historical mean cases,41,1,8
+Leptospirosis,Barangay 648,San Miguel,6,0.0398,Historical mean cases,41,1,7
+Leptospirosis,Barangay 829,Paco,7,0.0395,Historical mean cases,41,0,4
+Leptospirosis,Barangay 857,Pandacan,8,0.0395,Historical mean cases,41,0,4
+Leptospirosis,Barangay 850,Pandacan,9,0.0395,Historical mean cases,41,0,4
+Leptospirosis,Barangay 591,Sampaloc,10,0.034,Historical mean cases,41,0,3
+Leptospirosis,Barangay 636,Sampaloc,11,0.034,Historical mean cases,41,0,3
+Leptospirosis,Barangay 870,Pandacan,12,0.034,Historical mean cases,41,0,3
+Leptospirosis,Barangay 844,Pandacan,13,0.034,Historical mean cases,41,0,3
+Leptospirosis,Barangay 866,Santa Ana,14,0.034,Historical mean cases,41,0,3
+Leptospirosis,Barangay 880,Santa Ana,15,0.034,Historical mean cases,41,0,3
+Leptospirosis,Barangay 621,Sampaloc,16,0.034,Historical mean cases,41,0,3
+Leptospirosis,Barangay 905,Santa Ana,17,0.0266,Historical mean cases,41,1,4
+Leptospirosis,Barangay 601,Sampaloc,18,0.0266,Historical mean cases,41,1,4
+Leptospirosis,Barangay 618,Sampaloc,19,0.0262,Historical mean cases,41,1,4
+Leptospirosis,Barangay 599,Sampaloc,20,0.0262,Historical mean cases,41,1,4
+Leptospirosis,Barangay 871,Pandacan,21,0.0261,Historical mean cases,41,1,5
+Leptospirosis,Barangay 867,Pandacan,22,0.0237,Historical mean cases,41,1,3
+Leptospirosis,Barangay 898,Santa Ana,23,0.0232,Historical mean cases,41,1,5
+Leptospirosis,Barangay 600,Sampaloc,24,0.0224,Historical mean cases,41,2,5
+Leptospirosis,Barangay 593,Sampaloc,25,0.0196,4-wk cumulative rain,41,0,2
+Leptospirosis,Barangay 849,Pandacan,26,0.0196,4-wk cumulative rain,41,0,2
+Leptospirosis,Barangay 859,Pandacan,27,0.0196,4-wk cumulative rain,41,0,2
+Leptospirosis,Barangay 868,Pandacan,28,0.0196,4-wk cumulative rain,41,0,2
+Leptospirosis,Barangay 893,Santa Ana,29,0.0196,4-wk cumulative rain,41,0,2
+Leptospirosis,Barangay 899,Santa Ana,30,0.0196,4-wk cumulative rain,41,0,2
+Leptospirosis,Barangay 619,Sampaloc,31,0.0196,4-wk cumulative rain,41,0,2
+Leptospirosis,Barangay 624,Sampaloc,32,0.0196,4-wk cumulative rain,41,0,2
+Leptospirosis,Barangay 603,Sampaloc,33,0.0196,4-wk cumulative rain,41,0,2
+Leptospirosis,Barangay 602,Sampaloc,34,0.0196,4-wk cumulative rain,41,0,2
+Leptospirosis,Barangay 632,Sampaloc,35,0.0196,4-wk cumulative rain,41,0,2
+Leptospirosis,Barangay 835,Pandacan,36,0.0196,4-wk cumulative rain,41,0,2
+Leptospirosis,Barangay 628,Sampaloc,37,0.0196,4-wk cumulative rain,41,0,2
+Leptospirosis,Barangay 832,Paco,38,0.0196,4-wk cumulative rain,41,0,2
+Leptospirosis,Barangay 895,Santa Ana,39,0.0136,Rainfall lag 1 wk,41,1,2
+Leptospirosis,Barangay 874,Santa Ana,40,0.0136,Rainfall lag 1 wk,41,1,2
+Leptospirosis,Barangay 837,Pandacan,41,0.0136,Rainfall lag 1 wk,41,1,2
+Leptospirosis,Barangay 903,Santa Ana,42,0.0136,Rainfall lag 1 wk,41,1,2
+Leptospirosis,Barangay 897,Santa Ana,43,0.0135,Rainfall lag 1 wk,41,1,2
+Leptospirosis,Barangay 830,Paco,44,0.0118,Rainfall lag 1 wk,41,2,2
+Leptospirosis,Barangay 869,Pandacan,45,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 594,Sampaloc,46,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 589,Sampaloc,47,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 592,Sampaloc,48,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 587,Sampaloc,49,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 595,Sampaloc,50,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 873,Santa Ana,51,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 872,Pandacan,52,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 614,Sampaloc,53,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 637,San Miguel,54,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 622,Sampaloc,55,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 615,Sampaloc,56,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 617,Sampaloc,57,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 620,Sampaloc,58,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 831,Paco,59,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 627,Sampaloc,60,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 625,Sampaloc,61,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 626,Sampaloc,62,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 608,Sampaloc,63,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 616,Sampaloc,64,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 613,Sampaloc,65,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 609,Sampaloc,66,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 612,Sampaloc,67,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 611,Sampaloc,68,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 610,Sampaloc,69,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 607,Sampaloc,70,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 605,Sampaloc,71,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 606,Sampaloc,72,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 597,Sampaloc,73,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 604,Sampaloc,74,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 896,Santa Ana,75,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 889,Santa Ana,76,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 887,Santa Ana,77,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 838,Pandacan,78,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 834,Pandacan,79,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 646,San Miguel,80,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 645,San Miguel,81,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 840,Pandacan,82,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 647,San Miguel,83,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 638,San Miguel,84,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 639,San Miguel,85,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 640,San Miguel,86,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 641,San Miguel,87,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 643,San Miguel,88,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 644,San Miguel,89,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 833,Pandacan,90,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 635,Sampaloc,91,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 634,Sampaloc,92,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 633,Sampaloc,93,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 631,Sampaloc,94,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 629,Sampaloc,95,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 630,Sampaloc,96,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 851,Pandacan,97,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 846,Pandacan,98,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 856,Pandacan,99,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 855,Pandacan,100,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 853,Pandacan,101,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 852,Pandacan,102,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 848,Pandacan,103,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 847,Pandacan,104,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 845,Pandacan,105,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 841,Pandacan,106,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 890,Santa Ana,107,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 894,Santa Ana,108,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 891,Santa Ana,109,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 861,Pandacan,110,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 862,Pandacan,111,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 863,Pandacan,112,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 864,Pandacan,113,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 865,Pandacan,114,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 858,Pandacan,115,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 860,Pandacan,116,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 876,Santa Ana,117,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 875,Santa Ana,118,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 877,Santa Ana,119,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 878,Santa Ana,120,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 879,Santa Ana,121,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 881,Santa Ana,122,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 902,Santa Ana,123,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 901,Santa Ana,124,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 904,Santa Ana,125,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 888,Santa Ana,126,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 886,Santa Ana,127,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 885,Santa Ana,128,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 883,Santa Ana,129,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 882,Santa Ana,130,0.0085,4-wk cumulative rain,41,0,1
+Leptospirosis,Barangay 892,Santa Ana,131,0.0085,4-wk cumulative rain,41,0,0
+Leptospirosis,Barangay 839,Pandacan,132,0.0054,4-wk cumulative rain,41,1,1
+Leptospirosis,Barangay 588,Sampaloc,133,0.0054,4-wk cumulative rain,41,1,1
+Leptospirosis,Barangay 590,Sampaloc,134,0.0054,4-wk cumulative rain,41,1,1
+Leptospirosis,Barangay 884,Santa Ana,135,0.0054,4-wk cumulative rain,41,1,1
+Leptospirosis,Barangay 596,Sampaloc,136,0.0054,4-wk cumulative rain,41,1,1
+Leptospirosis,Barangay 642,San Miguel,137,0.0054,4-wk cumulative rain,41,1,1
+Leptospirosis,Barangay 623,Sampaloc,138,0.0054,4-wk cumulative rain,41,1,1

@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: district6-early-warning
+    runtime: docker
+    plan: free
+    envVars:
+      - key: APP_PASSWORD
+        sync: false

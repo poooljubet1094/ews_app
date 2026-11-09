@@ -1,0 +1,6 @@
+data/
+ews/
+tests/
+*.xlsx
+*.pkl
+.git

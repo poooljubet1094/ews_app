@@ -1,0 +1,58 @@
+{
+ "BFEATS": [
+  "y_l0",
+  "y_l1",
+  "y_l2",
+  "y_l3",
+  "y_ma4",
+  "y_hist_mean",
+  "dist_l0",
+  "dist_l1",
+  "city_l0",
+  "city_growth",
+  "rain_l1",
+  "rain_l2",
+  "rain_l3",
+  "rain_4wk_l1",
+  "rh_l2",
+  "tmean_l2"
+ ],
+ "FEAT_LABEL": {
+  "y_l0": "Cases this week",
+  "y_l1": "Cases 1 wk ago",
+  "y_l2": "Cases 2 wk ago",
+  "y_l3": "Cases 3 wk ago",
+  "y_ma4": "4-wk mean cases",
+  "y_growth": "Case growth (log)",
+  "y_hist_mean": "Historical mean cases",
+  "rain_l1": "Rainfall lag 1 wk",
+  "rain_l2": "Rainfall lag 2 wk",
+  "rain_l3": "Rainfall lag 3 wk",
+  "rain_l4": "Rainfall lag 4 wk",
+  "rain_2wk_l1": "2-wk cumulative rain",
+  "rain_4wk_l1": "4-wk cumulative rain",
+  "heavy_days_l2": "Heavy-rain days (lag 2)",
+  "rh_l1": "Humidity lag 1",
+  "rh_l2": "Humidity lag 2",
+  "rh_l3": "Humidity lag 3",
+  "tmean_l2": "Mean temp lag 2",
+  "tmax_l2": "Max temp lag 2",
+  "tmean_l4": "Mean temp lag 4",
+  "dist_code": "District",
+  "dist_l0": "District cases this week",
+  "dist_l1": "District cases 1 wk ago",
+  "city_l0": "City cases this week",
+  "city_growth": "City case growth (log)"
+ },
+ "LAST_WEEK": {
+  "Dengue": 40,
+  "Leptospirosis": 40,
+  "ILI": 37
+ },
+ "W0": "2026-01-04",
+ "thresholds_VI": {
+  "Dengue": 31.34997839238021,
+  "Leptospirosis": 3.0,
+  "ILI": 17.79176377557696
+ }
+}

@@ -1,0 +1,11 @@
+[theme]
+primaryColor = "#2F6DB5"
+base = "light"
+font = "sans serif"
+
+[server]
+headless = true
+maxUploadSize = 5
+
+[browser]
+gatherUsageStats = false

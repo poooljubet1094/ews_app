@@ -1,0 +1,19 @@
+Disease,Model,onset,median_delay,early_or_on_time,districts
+Dengue,Moving average (4 wk),34.0,3.0,0,5
+Dengue,Naive (persistence),34.0,1.0,1,5
+Dengue,Negative binomial GLM,34.0,0.0,3,5
+Dengue,Rainfall trigger (>=3 heavy-rain days),34.0,-1.0,5,5
+Dengue,Random forest,34.0,1.0,2,5
+Dengue,XGBoost (Poisson),34.0,1.0,2,5
+ILI,Moving average (4 wk),33.0,1.5,0,6
+ILI,Naive (persistence),33.0,1.0,1,6
+ILI,Negative binomial GLM,33.0,1.0,1,6
+ILI,Rainfall trigger (>=3 heavy-rain days),33.0,-1.0,5,6
+ILI,Random forest,33.0,0.5,3,6
+ILI,XGBoost (Poisson),33.0,1.5,1,6
+Leptospirosis,Moving average (4 wk),31.5,2.0,0,6
+Leptospirosis,Naive (persistence),31.5,1.0,0,6
+Leptospirosis,Negative binomial GLM,31.5,1.0,2,6
+Leptospirosis,Rainfall trigger (>=3 heavy-rain days),31.5,0.5,3,6
+Leptospirosis,Random forest,31.5,1.0,2,6
+Leptospirosis,XGBoost (Poisson),31.5,1.5,0,6

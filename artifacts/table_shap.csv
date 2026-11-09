@@ -1,0 +1,96 @@
+Disease,level,Feature,mean_abs_shap
+Dengue,district,Cases this week,0.19525197
+Dengue,district,Cases 1 wk ago,0.025473643
+Dengue,district,Cases 2 wk ago,0.060164373
+Dengue,district,Cases 3 wk ago,0.021339713
+Dengue,district,4-wk mean cases,0.20594133
+Dengue,district,Case growth (log),0.025152493
+Dengue,district,Historical mean cases,0.105513915
+Dengue,district,Rainfall lag 1 wk,0.015447634
+Dengue,district,Rainfall lag 2 wk,0.045116916
+Dengue,district,Rainfall lag 3 wk,0.025398353
+Dengue,district,Rainfall lag 4 wk,0.03502017
+Dengue,district,2-wk cumulative rain,0.007517097
+Dengue,district,4-wk cumulative rain,0.09619473
+Dengue,district,Heavy-rain days (lag 2),0.00040925268
+Dengue,district,Humidity lag 1,0.0069844993
+Dengue,district,Humidity lag 2,0.015870068
+Dengue,district,Humidity lag 3,0.09789494
+Dengue,district,Mean temp lag 2,0.021482699
+Dengue,district,Max temp lag 2,0.02585719
+Dengue,district,Mean temp lag 4,0.0055194725
+Dengue,district,District,0.02852447
+Leptospirosis,district,Cases this week,0.10180293
+Leptospirosis,district,Cases 1 wk ago,0.050483957
+Leptospirosis,district,Cases 2 wk ago,0.017986234
+Leptospirosis,district,Cases 3 wk ago,0.026537417
+Leptospirosis,district,4-wk mean cases,0.052219033
+Leptospirosis,district,Case growth (log),0.09726769
+Leptospirosis,district,Historical mean cases,0.062073484
+Leptospirosis,district,Rainfall lag 1 wk,0.17623052
+Leptospirosis,district,Rainfall lag 2 wk,0.41610208
+Leptospirosis,district,Rainfall lag 3 wk,0.061705757
+Leptospirosis,district,Rainfall lag 4 wk,0.026672287
+Leptospirosis,district,2-wk cumulative rain,0.6211997
+Leptospirosis,district,4-wk cumulative rain,0.59101254
+Leptospirosis,district,Heavy-rain days (lag 2),0.000803994
+Leptospirosis,district,Humidity lag 1,0.11071474
+Leptospirosis,district,Humidity lag 2,0.011417953
+Leptospirosis,district,Humidity lag 3,0.023174847
+Leptospirosis,district,Mean temp lag 2,0.023989271
+Leptospirosis,district,Max temp lag 2,0.003611359
+Leptospirosis,district,Mean temp lag 4,0.02630219
+Leptospirosis,district,District,0.05410336
+ILI,district,Cases this week,0.19249448
+ILI,district,Cases 1 wk ago,0.09292963
+ILI,district,Cases 2 wk ago,0.019292999
+ILI,district,Cases 3 wk ago,0.028052887
+ILI,district,4-wk mean cases,0.3513298
+ILI,district,Case growth (log),0.020609844
+ILI,district,Historical mean cases,0.20405038
+ILI,district,Rainfall lag 1 wk,0.09700567
+ILI,district,Rainfall lag 2 wk,0.099175155
+ILI,district,Rainfall lag 3 wk,0.024272492
+ILI,district,Rainfall lag 4 wk,0.046563428
+ILI,district,2-wk cumulative rain,0.05103841
+ILI,district,4-wk cumulative rain,0.030133376
+ILI,district,Heavy-rain days (lag 2),0.0
+ILI,district,Humidity lag 1,0.019339193
+ILI,district,Humidity lag 2,0.031234922
+ILI,district,Humidity lag 3,0.017388629
+ILI,district,Mean temp lag 2,0.03847205
+ILI,district,Max temp lag 2,0.030889545
+ILI,district,Mean temp lag 4,0.035804905
+ILI,district,District,0.0137589555
+Dengue,barangay,Cases this week,0.03241177
+Dengue,barangay,Cases 1 wk ago,0.018180665
+Dengue,barangay,Cases 2 wk ago,0.011107275
+Dengue,barangay,Cases 3 wk ago,0.010680538
+Dengue,barangay,4-wk mean cases,0.0404681
+Dengue,barangay,Historical mean cases,0.3028355
+Dengue,barangay,District cases this week,0.19954306
+Dengue,barangay,District cases 1 wk ago,0.07768967
+Dengue,barangay,City cases this week,0.20032623
+Dengue,barangay,City case growth (log),0.027415145
+Dengue,barangay,Rainfall lag 1 wk,0.02889537
+Dengue,barangay,Rainfall lag 2 wk,0.025098085
+Dengue,barangay,Rainfall lag 3 wk,0.05082
+Dengue,barangay,4-wk cumulative rain,0.13484183
+Dengue,barangay,Humidity lag 2,0.035151206
+Dengue,barangay,Mean temp lag 2,0.087168545
+Leptospirosis,barangay,Cases this week,0.004530009
+Leptospirosis,barangay,Cases 1 wk ago,0.010812837
+Leptospirosis,barangay,Cases 2 wk ago,0.011429074
+Leptospirosis,barangay,Cases 3 wk ago,0.0045485515
+Leptospirosis,barangay,4-wk mean cases,0.13660403
+Leptospirosis,barangay,Historical mean cases,0.16436282
+Leptospirosis,barangay,District cases this week,0.16505586
+Leptospirosis,barangay,District cases 1 wk ago,0.08118461
+Leptospirosis,barangay,City cases this week,0.27477875
+Leptospirosis,barangay,City case growth (log),0.14598823
+Leptospirosis,barangay,Rainfall lag 1 wk,0.39888376
+Leptospirosis,barangay,Rainfall lag 2 wk,0.4465309
+Leptospirosis,barangay,Rainfall lag 3 wk,0.051863506
+Leptospirosis,barangay,4-wk cumulative rain,0.660968
+Leptospirosis,barangay,Humidity lag 2,0.027170481
+Leptospirosis,barangay,Mean temp lag 2,0.04161691

@@ -1,0 +1,7 @@
+# offline model rebuild (python -m ews.build); not needed on the web server
+-r requirements.txt
+openpyxl>=3.1
+scikit-learn>=1.4
+statsmodels>=0.14
+shap>=0.45
+matplotlib>=3.8
